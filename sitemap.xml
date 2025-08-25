@@ -1,18 +1,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url>
-<loc>https://scalewithfulfillment.com</loc>
-<lastmod>2025-08-23</lastmod>
-</url>
-<url>
-<loc>https://scalewithfulfillment.com/booking</loc>
-<lastmod>2025-08-23</lastmod>
-</url>
-<url>
-<loc>https://scalewithfulfillment.com/confirm</loc>
-<lastmod>2025-08-23</lastmod>
-</url>
-<url>
-<loc>https://scalewithfulfillment.com/https://scalewithfulfillment.com/sitemap.xml</loc>
-<lastmod>2025-08-23</lastmod>
-</url>
+  <url>
+    <loc>https://scalewithfulfillment.com</loc>
+    <lastmod>2025-08-23</lastmod>
+  </url>
+  <url>
+    <loc>https://scalewithfulfillment.com/booking</loc>
+    <lastmod>2025-08-23</lastmod>
+  </url>
+  <url>
+    <loc>https://scalewithfulfillment.com/confirm</loc>
+    <lastmod>2025-08-23</lastmod>
+  </url>
 </urlset>
